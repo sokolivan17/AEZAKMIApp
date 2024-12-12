@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  AEZAKMIApp
+//
+//  Created by Ваня Сокол on 11.12.2024.
+//
+
+API_BASE_URL = restcountries.com
+CELL_IDENTIFIER = CountryTableViewCell
